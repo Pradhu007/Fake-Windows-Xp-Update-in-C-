@@ -1,4 +1,4 @@
-Store and execute(No dependencies required as .net will be installed on most windows 10 computers by default)
+Store and execute(No dependencies required as .net will be installed on most windows 10 and 11  computers by default)
 
 
 Info:
